@@ -1,0 +1,7 @@
+{ "encodingClasses": [],
+  "gsonTypeAdapterClasses": [],
+  "processClasses": [
+    "org.uncertweb.ps.processes.BufferPolygon",
+    "org.uncertweb.ps.processes.Sum"
+  ],
+  "additionalProperties": [] }
