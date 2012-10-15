@@ -60,4 +60,10 @@ public class BufferPolygon extends AbstractProcess {
 		return outputs;
 	}
 
+	@Override
+	public List<Metadata> getMetadata() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

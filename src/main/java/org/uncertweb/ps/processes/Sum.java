@@ -69,5 +69,11 @@ public class Sum extends AbstractProcess {
 		Metadata description = new Metadata("description", "The result of the sum");
 		return Arrays.asList(new Metadata[] { description });
 	}
+
+	@Override
+	public List<Metadata> getMetadata() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 }
